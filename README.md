@@ -1,0 +1,1 @@
+- faire la list de produit dans shop avec la description produit
